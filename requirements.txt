@@ -1,0 +1,4 @@
+Pillow=9.0.1
+huey==2.4.2
+beautifulsoup4=4.10.0
+SQLAlchemy=1.4.32
