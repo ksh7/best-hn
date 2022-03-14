@@ -1,6 +1,10 @@
 # ✨ best-hn
 Best of HackerNews to save time. It generates summary of top stories reaching > 200 score, so that you don't have to visit hackernews again and again to check top stories.
 
+## Summary Cards - Sample
+
+![Summary Card](sample.png)
+
 ## how to use
 
 - use `huey` instance to save summary of top stories every two hours
